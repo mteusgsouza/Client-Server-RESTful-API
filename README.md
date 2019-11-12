@@ -1,5 +1,7 @@
 # Client-Server-RESTful-API
-Projeto #3 Udemy Hcode - CRUD usando RESTful API
+Projeto #3 Udemy Hcode - CRUD usando RESTful API<br>
+
+É um upgrade do projeto https://github.com/mteusgsouza/Cadastro-de-Usuarios-JS, ao invés de salvar o usuário no localstorage do navegador salva os dados no banco neDB utilizando restify.<br>
 
 Como utilizar:<br>
 1- Baixe o repositório<br>
